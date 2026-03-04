@@ -16,3 +16,4 @@ big head, oversized head, deformed body, mutated limbs,
 extra arms, extra legs, broken wings, bad anatomy,
 cartoon style, low detail, blurry, distorted robot,
 incorrect proportions, bad mechanical structure
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/f20d1739-80df-4e2f-b12f-68b966d92de8" />
