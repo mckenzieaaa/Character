@@ -46,4 +46,5 @@ maintain exact same design, same head size, same proportions, same wing structur
 
 big head, oversized head, distorted face, deformed robot, mutated limbs, extra arms, broken wings, incorrect wing structure, cartoon style, anime style, bad proportions, low detail, blurry, redesign, different robot
 
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/ff263ed8-4c33-407b-b8ba-46f5ec371a22" />
 
