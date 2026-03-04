@@ -33,3 +33,8 @@ sci fi hangar environment, cinematic lighting, soft fog, epic futuristic atmosph
 big head, oversized head, small body, bad proportions, distorted robot, deformed body, mutated limbs, extra arms, extra legs, broken wings, missing wings, incorrect mechanical structure, cartoon style, anime style, low detail, blurry, bad quality, bad anatomy, unrealistic robot design, messy mechanical parts
 <img width="1392" height="832" alt="截屏2026-03-04 下午10 07 12" src="https://github.com/user-attachments/assets/bd528c9c-46d7-44a9-9ca0-8c765ffbcc50" />
 <img width="1283" height="723" alt="截屏2026-03-04 下午10 07 38" src="https://github.com/user-attachments/assets/5e44ef86-f92a-44d0-a04d-b84bc6a81fac" />
+
+
+https://github.com/user-attachments/assets/1e2e6475-b42e-4000-b244-9ae189a67611
+
+
