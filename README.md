@@ -36,5 +36,14 @@ big head, oversized head, small body, bad proportions, distorted robot, deformed
 
 
 https://github.com/user-attachments/assets/1e2e6475-b42e-4000-b244-9ae189a67611
+futuristic dragonfly combat robot, sleek blue metallic mechanical body, transparent dragonfly wings with glowing circuit patterns, gold circular energy cores on the wings, elegant slim robotic structure, intricate biomechanical details, ultra detailed, cinematic science fiction style
+
+the robot hovering steadily in the air, wings fully extended, glowing wing cores pulsing brighter with golden light, subtle vibration in the transparent wings, energy building up, eyes glowing intensely, soft atmospheric wind, energy distortion in the air
+
+dramatic sky background, cinematic lighting, epic atmosphere, high quality render
+
+maintain exact same design, same head size, same proportions, same wing structure
+
+big head, oversized head, distorted face, deformed robot, mutated limbs, extra arms, broken wings, incorrect wing structure, cartoon style, anime style, bad proportions, low detail, blurry, redesign, different robot
 
 
