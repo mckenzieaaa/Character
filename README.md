@@ -16,4 +16,20 @@ big head, oversized head, deformed body, mutated limbs,
 extra arms, extra legs, broken wings, bad anatomy,
 cartoon style, low detail, blurry, distorted robot,
 incorrect proportions, bad mechanical structure
+
+
+https://github.com/user-attachments/assets/15fc65e2-bc31-4334-95d5-2af1e3e0c152
+
+
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/f20d1739-80df-4e2f-b12f-68b966d92de8" />
+futuristic dragonfly combat robot, sleek blue metallic mechanical body, elegant slim robotic structure, long thin mechanical legs, gold mechanical joints, transparent dragonfly wings with glowing circuit patterns, high tech biomechanical design, intricate mechanical details, cinematic science fiction style, ultra detailed, realistic lighting, dramatic atmosphere, soft blue energy glow
+
+the robot remains exactly the same design and proportions as the original reference image, same head size, same body structure, same wing shape
+
+the robot slowly powering up, mechanical wings gently unfolding, transparent wings glowing with blue energy, subtle mechanical movement, elegant robotic motion, the robot slightly hovering above the ground, wings vibrating softly
+
+sci fi hangar environment, cinematic lighting, soft fog, epic futuristic atmosphere, high quality render, highly detailed mechanical parts
+
+big head, oversized head, small body, bad proportions, distorted robot, deformed body, mutated limbs, extra arms, extra legs, broken wings, missing wings, incorrect mechanical structure, cartoon style, anime style, low detail, blurry, bad quality, bad anatomy, unrealistic robot design, messy mechanical parts
+<img width="1392" height="832" alt="截屏2026-03-04 下午10 07 12" src="https://github.com/user-attachments/assets/bd528c9c-46d7-44a9-9ca0-8c765ffbcc50" />
+<img width="1283" height="723" alt="截屏2026-03-04 下午10 07 38" src="https://github.com/user-attachments/assets/5e44ef86-f92a-44d0-a04d-b84bc6a81fac" />
