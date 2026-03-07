@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="未标题-1" src="https://github.com/user-attachments/assets/815db360-06e9-43d7-9072-fda466acaa7e" />
 
 # Character
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/0da6e153-dbf2-4558-bec6-db1242c4e2db" />
@@ -48,6 +48,6 @@ big head, oversized head, distorted face, deformed robot, mutated limbs, extra a
 
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/ff263ed8-4c33-407b-b8ba-46f5ec371a22" />
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/137de74b-4d91-4c1d-a8cb-61d6259f4e69" />
-![Uploading 05814169-8682-47f5-92b7-374a74a94cd8.png…]()
-![Uploading 未标题-1.png…]()
+<img width="1536" height="1024" alt="05814169-8682-47f5-92b7-374a74a94cd8" src="https://github.com/user-attachments/assets/ede39640-aa67-4cf0-a58f-768e8a3fe056" />
+<img width="1920" height="1080" alt="未标题-1" src="https://github.com/user-attachments/assets/9019eaec-3ecc-4163-ba8c-b21ad75cb865" />
 
