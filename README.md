@@ -48,4 +48,6 @@ big head, oversized head, distorted face, deformed robot, mutated limbs, extra a
 
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/ff263ed8-4c33-407b-b8ba-46f5ec371a22" />
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/137de74b-4d91-4c1d-a8cb-61d6259f4e69" />
+![Uploading 05814169-8682-47f5-92b7-374a74a94cd8.png…]()
+![Uploading 未标题-1.png…]()
 
