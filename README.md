@@ -1,4 +1,4 @@
-# EDGE-IV — Character Design (Biomechanical Dragonfly Unit)
+![1235](https://github.com/user-attachments/assets/cddf5f9d-d509-4220-aad2-d3438fe45f67)# EDGE-IV — Character Design (Biomechanical Dragonfly Unit)
 
 > A futuristic biomechanical dragonfly combat robot designed for exploration and balance in artificial ecosystems.
 
@@ -45,28 +45,29 @@ The name **EDGE-IV** represents the idea of operating at the cutting edge of tec
 Together, the name **EDGE-IV** represents a new generation of biomechanical explorers designed to operate at the edge of technological discovery.
 
 ---
+![1235](https://github.com/user-attachments/assets/57d3977b-7a7d-48ec-baf8-b11e37557f2e)
 
 ## Key Visuals
 
 ### Hero / Poster
-<img width="1920" height="1080" alt="EDGE-IV Hero" src="https://github.com/user-attachments/assets/815db360-06e9-43d7-9072-fda466acaa7e" />
+<img width="1536" height="1024" alt="Character Render 2" src="https://github.com/user-attachments/assets/024ef985-d321-4fa1-ac3b-c8635b18c2c7" />
 
 ### Character Renders
+<img width="2388" height="1668" alt="未命名作品" src="https://github.com/user-attachments/assets/b113bdaa-e8f3-434b-98d0-882273a45622" />
+<img width="1536" height="3072" alt="132" src="https://github.com/user-attachments/assets/d6a1dac5-0aad-4036-8de2-5c04282cfc10" />
+<img width="1536" height="3072" alt="123" src="https://github.com/user-attachments/assets/c0e23c1a-579b-4d1c-8602-588e20d61a15" />
+<img width="1024" height="1536" alt="116" src="https://github.com/user-attachments/assets/4c03ee61-e24d-437b-a33f-82432155215b" />
+<img width="1536" height="1024" alt="Render D" src="https://github.com/user-attachments/assets/ede39640-aa67-4cf0-a58f-768e8a3fe056" />
+### More Renders
+<img width="1920" height="1080" alt="EDGE-IV Hero" src="https://github.com/user-attachments/assets/815db360-06e9-43d7-9072-fda466acaa7e" />
+
+### Process / Screenshots
 <img width="3839" height="2159" alt="Character Render 1" src="https://github.com/user-attachments/assets/0da6e153-dbf2-4558-bec6-db1242c4e2db" />
-<img width="1536" height="1024" alt="Character Render 2" src="https://github.com/user-attachments/assets/024ef985-d321-4fa1-ac3b-c8635b18c2c7" />
 <img width="3839" height="2159" alt="Character Render 3" src="https://github.com/user-attachments/assets/63dffc47-8a01-4370-87a1-093a3eba583c" />
 <img width="3839" height="2156" alt="Character Render 4" src="https://github.com/user-attachments/assets/5cba7a92-58a4-4e95-8ff0-859d69c3fbb1" />
-
-### More Renders
 <img width="3839" height="2159" alt="Render A" src="https://github.com/user-attachments/assets/f20d1739-80df-4e2f-b12f-68b966d92de8" />
 <img width="3839" height="2159" alt="Render B" src="https://github.com/user-attachments/assets/ff263ed8-4c33-407b-b8ba-46f5ec371a22" />
 <img width="3839" height="2159" alt="Render C" src="https://github.com/user-attachments/assets/137de74b-4d91-4c1d-a8cb-61d6259f4e69" />
-<img width="1536" height="1024" alt="Render D" src="https://github.com/user-attachments/assets/ede39640-aa67-4cf0-a58f-768e8a3fe056" />
-<img width="1920" height="1080" alt="Render E" src="https://github.com/user-attachments/assets/9019eaec-3ecc-4163-ba8c-b21ad75cb865" />
-
-### Process / Screenshots
-<img width="1392" height="832" alt="Screenshot 1" src="https://github.com/user-attachments/assets/bd528c9c-46d7-44a9-9ca0-8c765ffbcc50" />
-<img width="1283" height="723" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5e44ef86-f92a-44d0-a04d-b84bc6a81fac" />
 
 ---
 
