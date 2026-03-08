@@ -1,3 +1,21 @@
+Character Background
+
+In a distant future shaped by artificial intelligence and advanced robotics, a biomechanical unit known as EDGE-IV was developed as part of an experimental exploration program. Its design combines the agility of a dragonfly with the precision and structure of a mantis, creating a highly efficient and elegant mechanical lifeform.
+
+EDGE-IV is powered by an advanced energy core that flows through its transparent circuit wings, allowing it to move swiftly and silently through complex technological environments. Its slender mechanical body and elongated limbs enable precise navigation through unstable terrains and digital ecosystems.
+
+Unlike conventional machines, EDGE-IV operates as an autonomous observer. It travels across artificial landscapes, studying evolving systems and maintaining balance within fragile technological networks.
+
+In the video, EDGE-IV awakens and begins its journey through surreal environments, representing exploration, adaptation, and the fusion of biological inspiration with futuristic technology.
+
+The name EDGE-IV represents the idea of operating at the cutting edge of technology.
+“EDGE” symbolizes advancement, precision, and the boundary between the known and the unknown. It reflects the robot’s role as an explorer that moves at the frontier of artificial environments and digital ecosystems.
+
+The suffix “IV” indicates the fourth iteration of the EDGE prototype series. Earlier versions focused on mobility, sensing, and environmental analysis. EDGE-IV represents the most refined version of the system, combining advanced flight mechanics inspired by dragonflies with the precision and structural efficiency of a mantis.
+
+Together, the name EDGE-IV represents a new generation of biomechanical explorers designed to operate at the edge of technological discovery.
+
+
 <img width="1920" height="1080" alt="未标题-1" src="https://github.com/user-attachments/assets/815db360-06e9-43d7-9072-fda466acaa7e" />
 
 # Character
